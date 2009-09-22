@@ -1,0 +1,11 @@
+<SOFTPKG NAME="Locale-Maketext-TieHash-nbsp" VERSION="1,02,0,0">
+    <TITLE>Locale-Maketext-TieHash-nbsp</TITLE>
+    <ABSTRACT>Tying subroutine to a hash</ABSTRACT>
+    <AUTHOR>Steffen Winkler &lt;steffenw at cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="parent" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Params-Validate" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Tie-Sub" VERSION="0,07,0,0" />
+        <CODEBASE HREF="PPM-Locale-Maketext-TieHash-nbsp-1.02.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
